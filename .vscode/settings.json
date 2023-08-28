@@ -1,0 +1,8 @@
+{
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.black-formatter"
+  },
+  "python.defaultInterpreterPath": "${workspaceRoot}/.venv/bin/python",
+  "python.analysis.extraPaths": ["${workspaceRoot}/.venv/site-packages?"],
+  "python.envFile": "${workspaceRoot}/.env"
+}
